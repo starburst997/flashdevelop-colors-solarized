@@ -2,6 +2,7 @@ HaxeDevelop Ocean Theme and Syntax Colorscheme
 ===================================================
 
 Developed by Gene Pavlovsky <gene.pavlovsky@gmail.com>
+
 Ocean fork by Jean-Denis Boivin <jeandenis.boivin@gmail.com>
 
 A [Ocean](https://github.com/ihodev/sublime-boxy#boxy-ocean--material) theme (inspired by [Material Theme](https://github.com/equinusocio/material-theme)) and syntax colorscheme for HaxeDevelop. Compatible with FD5.
