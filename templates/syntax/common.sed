@@ -40,7 +40,7 @@ s,{string-fore},{green},g
 s,{verbatim-fore},{green},g
 s,{stringeol-fore},{green},g
 s,{regex-fore},{magenta},g
-s,{preprocessor-fore},{red2},g
+s,{preprocessor-fore},{b},g
 #s,{uuid-fore},{violet},g
 s,{operator-fore},{yellow},g
 s,{identifier-fore},{base1},g
