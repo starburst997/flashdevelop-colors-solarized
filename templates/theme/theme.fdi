@@ -136,7 +136,7 @@ ScrollBar.ForeColor={content1}
 # Thumb button when hovered
 ScrollBar.HotForeColor={content2}
 # Thumb button when pressed
-ScrollBar.ActiveForeColor={content4}
+ScrollBar.ActiveForeColor={content1}
 # Arrow buttons
 ScrollBar.ArrowColor={content1}
 # Arrow buttons when hovered
@@ -166,7 +166,7 @@ ColumnHeader.BorderColor={content2}
 # Border
 ToolStripComboBoxControl.BorderColor={content2}
 # Border when focused or mouse overed
-ToolStripComboBoxControl.ActiveBorderColor={content4}
+ToolStripComboBoxControl.ActiveBorderColor={content1}
 
 # Text boxes that appear in toolbars and panels (search text field in Quick find bar, search text field in Outline panel)
 # Border
@@ -177,7 +177,7 @@ ToolStrip.BorderColor={content2}
 # Rectangular border around the editor
 DockWindow.BorderColor={content3}
 # Rectangular border around panels (Output panel, Project panel)
-DockPanelControl.BorderColor={content4}
+DockPanelControl.BorderColor={content1}
 # Main and context menus horizontal separator (any menu)
 ToolStripSeparator.ForeColor={content1}
 
@@ -195,18 +195,18 @@ VS2005DockPaneCaption.ActiveImageColor={caption-fore}
 # Dock and close buttons when panel is not focused (dock the "Output" panel then click on the editor)
 VS2005DockPaneCaption.ImageColor={content4}
 # Rectangular border around the caption (title bar)
-VS2005DockPaneCaption.BorderColor={content4}
+VS2005DockPaneCaption.BorderColor={content1}
 
 # Document tab bar (below the main toolbar, above the editor)
 # Dock panel tab bar (tab bar that appears if several dock panels are grouped together using drag'n'drop, and auto-hide is disabled) - settings with the Tool prefix
 # Rectangular border around the active tab and a horizontal line below the whole tab bar
 VS2005DockPaneStrip.DocTabActiveBorder={content1}
 # Active tab text (filename)
-VS2005DockPaneStrip.DocTabActiveForeColor={blue}
+VS2005DockPaneStrip.DocTabActiveForeColor={content4}
 # Border around all tabs (horizontal line above all tabs in the tab bar) and tab separator
-VS2005DockPaneStrip.DocTabInactiveBorder={background1}
+VS2005DockPaneStrip.DocTabInactiveBorder={background2}
 # Dock panel tab bar - rectangular border around the active tab and a horizontal line above the whole tab bar
-VS2005DockPaneStrip.ToolActiveBorderColor={content4}
+VS2005DockPaneStrip.ToolActiveBorderColor={content1}
 # Unused
 #VS2005DockPaneStrip.ToolBorderColor={background1}
 # Dock panel tab bar - active tab text
@@ -220,19 +220,19 @@ VS2005DockPaneStrip.ImageColor={content4}
 # Selected main menu item background ("File" menu when it's open)
 ToolStripMenu.TitleBackColor={background1}
 # Rectangular border around selected main menu item (except horizontal line below the item)
-ToolStripMenu.TitleBorderColor={content4}
+ToolStripMenu.TitleBorderColor={content1}
 # Horizontal line below selected main menu item
 ToolStripMenu.SeparatorColor={background1}
 # Pressed drop-down list button background ("Recent projects" button in the main toolbar)
 ToolStripMenu.DropDownBackColor={background1}
 # Border around pressed drop-down list button ("Recent projects" button in the main toolbar)
-ToolStripMenu.DropDownBorderColor={content4}
+ToolStripMenu.DropDownBorderColor={content1}
 # Main and context menu icons margin separator (vertical line separating icons margin from menu items)
 ToolStripMenu.MarginBorderColor={background1}
 # Main and context menu icons margin background
 ToolStripMenu.MarginBackColor={background1}
 # Rectangular border around a menu
-ToolStripMenu.BorderColor={content4}
+ToolStripMenu.BorderColor={content1}
 # Menu background
 ToolStripMenu.BackColor={background1}
 
@@ -416,13 +416,13 @@ DockPanel.BackColor={content1}
 # Seemingly unused
 #AutoHideWindowControl.ForeColor={content4}
 # Thin horizontal or vertical line at the outer edge of an autohide dock panel's splitter, Output panel or Project panel
-AutoHideWindowControl.BackColor={content1}
+AutoHideWindowControl.BackColor={base03}
 
 # Dock panel caption (panel title bar, Output panel title bar containing "Output" header, dock and close buttons)
 # Text when panel is not focused (dock the "Output" panel then click on the editor)
 VS2005DockPaneCaption.ForeColor={caption-fore}
 # Background when panel is not focused
-VS2005DockPaneCaption.BackColor={content1}
+VS2005DockPaneCaption.BackColor={base03}
 # Background gradient start color when panel is focused (just opened the "Output" panel, or clicked on the docked "Output" panel)
 VS2005DockPaneCaption.TabGradientStart={content2}
 # Background gradient end color when panel is focused (gradient starts near the splitter and ends near the panel contents)

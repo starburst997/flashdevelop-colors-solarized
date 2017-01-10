@@ -70,7 +70,7 @@ ScrollBar.BorderColor=#22323a
 ScrollBar.DisabledBorderColor=#22323a
 ScrollBar.ForeColor=#425057
 ScrollBar.HotForeColor=#4c5960
-ScrollBar.ActiveForeColor=#cdd3de
+ScrollBar.ActiveForeColor=#425057
 ScrollBar.ArrowColor=#425057
 ScrollBar.HotArrowColor=#4c5960
 ScrollBar.ActiveArrowColor=#cdd3de
@@ -85,13 +85,13 @@ ColumnHeader.TextColor=#828b8f
 ColumnHeader.BorderColor=#4c5960
 
 ToolStripComboBoxControl.BorderColor=#4c5960
-ToolStripComboBoxControl.ActiveBorderColor=#cdd3de
+ToolStripComboBoxControl.ActiveBorderColor=#425057
 
 ToolStripTextBoxControl.BorderColor=#4c5960
 
 ToolStrip.BorderColor=#4c5960
 DockWindow.BorderColor=#22323a
-DockPanelControl.BorderColor=#cdd3de
+DockPanelControl.BorderColor=#425057
 ToolStripSeparator.ForeColor=#425057
 
 ToolStripItem.ArrowColor=#4c5960
@@ -100,24 +100,24 @@ ToolStripItem.TextColor=#cdd3de
 VS2005DockPaneCaption.ActiveForeColor=#828b8f
 VS2005DockPaneCaption.ActiveImageColor=#828b8f
 VS2005DockPaneCaption.ImageColor=#cdd3de
-VS2005DockPaneCaption.BorderColor=#cdd3de
+VS2005DockPaneCaption.BorderColor=#425057
 
 VS2005DockPaneStrip.DocTabActiveBorder=#425057
-VS2005DockPaneStrip.DocTabActiveForeColor=#fac863
-VS2005DockPaneStrip.DocTabInactiveBorder=#1b2b34
-VS2005DockPaneStrip.ToolActiveBorderColor=#cdd3de
+VS2005DockPaneStrip.DocTabActiveForeColor=#cdd3de
+VS2005DockPaneStrip.DocTabInactiveBorder=#22323a
+VS2005DockPaneStrip.ToolActiveBorderColor=#425057
 VS2005DockPaneStrip.ToolActiveForeColor=#828b8f
 VS2005DockPaneStrip.ToolSeparatorColor=#1b2b34
 VS2005DockPaneStrip.ImageColor=#cdd3de
 
 ToolStripMenu.TitleBackColor=#1b2b34
-ToolStripMenu.TitleBorderColor=#cdd3de
+ToolStripMenu.TitleBorderColor=#425057
 ToolStripMenu.SeparatorColor=#1b2b34
 ToolStripMenu.DropDownBackColor=#1b2b34
-ToolStripMenu.DropDownBorderColor=#cdd3de
+ToolStripMenu.DropDownBorderColor=#425057
 ToolStripMenu.MarginBorderColor=#1b2b34
 ToolStripMenu.MarginBackColor=#1b2b34
-ToolStripMenu.BorderColor=#cdd3de
+ToolStripMenu.BorderColor=#425057
 ToolStripMenu.BackColor=#1b2b34
 
 ProjectTreeView.LibraryTextColor=#fac863
@@ -207,10 +207,10 @@ ToolStripTextBoxControl.BackColor=#1b2b34
 
 DockPanel.BackColor=#425057
 
-AutoHideWindowControl.BackColor=#425057
+AutoHideWindowControl.BackColor=#1b2b34
 
 VS2005DockPaneCaption.ForeColor=#828b8f
-VS2005DockPaneCaption.BackColor=#425057
+VS2005DockPaneCaption.BackColor=#1b2b34
 VS2005DockPaneCaption.TabGradientStart=#4c5960
 VS2005DockPaneCaption.TabGradientEnd=#22323a
 
