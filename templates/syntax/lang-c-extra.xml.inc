@@ -3,4 +3,4 @@
 <!-- additional keywords 4 (AS3 - disabled: trace addEventListener removeEventListener hasListener addChild addChildAt removeChild removeChildAt) -->
 <style name="word4" fore={word4-fore} />
 <!-- additional keywords 5 (AS3: super this) -->
-<style name="word5" fore={word5-fore} />
+<style name="word5" fore={word5-fore} italics="true" />

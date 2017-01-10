@@ -17,6 +17,8 @@ base2        = 828b8f
 #base3        = fdf6e3
 base3        = dddfe1
 
+#ec5f67
+
 # Accent colors (minimum brightness)
 yellow-min   = 5c4500
 orange-min   = 66260b
@@ -54,6 +56,11 @@ blue         = fac863
 cyan         = f99157
 #green        = 859900
 green        = 99c794
+
+red2         =  ec5f67
+comment      =  65737e
+indent       =  3c4a51
+line         =  747f89
 
 # Accent colors (high brightness)
 yellow-high  = dba400

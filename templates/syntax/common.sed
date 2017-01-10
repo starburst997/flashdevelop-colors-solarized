@@ -4,7 +4,7 @@
 #
 
 # Disabled
-/<style name="\(bracebad\|uuid\|word4\)"/ s,[a-z][-_a-z0-9]*={[^}]*},,g
+/<style name="\(bracebad\|uuid\)"/ s,[a-z][-_a-z0-9]*={[^}]*},,g
 
 # Editor
 s,{caret-fore},{base2},g
@@ -26,12 +26,12 @@ s,{font-face},"DejaVu Sans Mono",g
 s,{default-fore},{base1},g
 s,{default-back},{base03},g
 s,{gdefault-fore},{base02},g
-s,{linenumber-fore},{base00},g
+s,{linenumber-fore},{line},g
 s,{bracelight-fore},{red},g
 s,{bracelight-back},{base02},g
 #s,{bracebad-fore},{base02},g
 #s,{bracebad-back},{red},g
-s,{indentguide-fore},{base02},g
+s,{indentguide-fore},{indent},g
 
 # Lang-C
 s,{number-fore},{cyan},g
@@ -40,22 +40,22 @@ s,{string-fore},{green},g
 s,{verbatim-fore},{green},g
 s,{stringeol-fore},{green},g
 s,{regex-fore},{magenta},g
-s,{preprocessor-fore},{orange},g
+s,{preprocessor-fore},{red2},g
 #s,{uuid-fore},{violet},g
 s,{operator-fore},{yellow},g
 s,{identifier-fore},{base1},g
-s,{globalclass-fore},{yellow},g
+s,{globalclass-fore},{orange},g
 s,{word-fore},{violet},g
 s,{word2-fore},{blue},g
 # Lang-C extra
 s,{word3-fore},{orange},g
-#s,{word4-fore},{base1},g
-s,{word5-fore},{blue},g
+s,{word4-fore},{orange},g
+s,{word5-fore},{red2},g
 
 # Comments
-s,{comment-fore},{base01},g
-s,{commentdoc-fore},{base00},g
-s,{commentdockeyword-fore},{base0},g
+s,{comment-fore},{comment},g
+s,{commentdoc-fore},{comment},g
+s,{commentdockeyword-fore},{comment},g
 s,{commentdockeyworderror-back},{red},g
 
 # Language-specific
