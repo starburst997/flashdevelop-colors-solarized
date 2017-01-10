@@ -32,7 +32,7 @@ while test $# -gt 0; do
 			exit 1
 		;;
 	esac
-	
+
 	shift
 done
 
@@ -40,8 +40,8 @@ done
 # Constants
 #
 
-SOLARIZE_DARK="./solarized/solarize.sh -s"
-SOLARIZE_LIGHT="./solarized/solarize.sh -s -l -H"
+SOLARIZE_DARK="./colors/ocean.sh -s"
+SOLARIZE_LIGHT="./colors/ocean.sh -s -l -H"
 SOLARIZE_SYNTAX_OPTS="-q -c"
 SOLARIZE_THEME_OPTS=
 
@@ -171,4 +171,14 @@ fi
 
 echo -n "Cleaning up... "
 rm -rf dark light
+
+# Yes I realize this is bad, will cleanup later on, maybe, probably never
+rm -f dist/SolarizedLight.fdi
+rm -f dist/FullThemes/SolarizedLight.fdz
+rm -f dist/SyntaxThemes/SolarizedLight.fdz
+mv dist/SolarizedDark.fdi dist/Ocean.fdi
+mv dist/SolarizedThemes.fdz dist/OceanThemes.fdz
+mv dist/FullThemes/SolarizedDark.fdz dist/FullThemes/Ocean.fdz
+mv dist/SyntaxThemes/SolarizedDark.fdz dist/SyntaxThemes/Ocean.fdz
+
 echo "done"
