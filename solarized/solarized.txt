@@ -1,12 +1,21 @@
 # Base colors
-base03       = 002b36
-base02       = 073642
-base01       = 586e75
-base00       = 657b83
-base0        = 839496
-base1        = 93a1a1
-base2        = eee8d5
-base3        = fdf6e3
+#base03       = 002b36
+base03       = 1b2b34
+#base02       = 073642
+base02       = 22323a
+#base01       = 586e75
+base01       = 425057
+#base00       = 657b83
+base00       = 4c5960
+#base0        = 839496
+#base0        = 073642
+base0        = 22323a
+#base1        = 93a1a1
+base1        = cdd3de
+#base2        = eee8d5
+base2        = 828b8f
+#base3        = fdf6e3
+base3        = dddfe1
 
 # Accent colors (minimum brightness)
 yellow-min   = 5c4500
@@ -29,14 +38,22 @@ cyan-low     = 1f7870
 green-low    = 637300
 
 # Accent colors (default brightness)
-yellow       = b58900
-orange       = cb4b16
-red          = dc322f
-magenta      = d33682
-violet       = 6c71c4
-blue         = 268bd2
-cyan         = 2aa198
-green        = 859900
+#yellow       = b58900
+yellow       = 5fb3b3
+#orange       = cb4b16
+orange       = c594c5
+#red          = dc322f
+red          = 5fb3b3
+#magenta      = d33682
+magenta      = 5fb3b3
+#violet       = 6c71c4
+violet       = f99157
+#blue         = 268bd2
+blue         = fac863
+#cyan         = 2aa198
+cyan         = f99157
+#green        = 859900
+green        = 99c794
 
 # Accent colors (high brightness)
 yellow-high  = dba400

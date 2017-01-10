@@ -21,8 +21,8 @@ s,{modifiedline-back},{yellow},g
 #s,{bookmarkline-back},{yellow-min},g
 
 # General
-s,{font-size},"11",g
-s,{font-face},"Consolas",g
+s,{font-size},"10",g
+s,{font-face},"DejaVu Sans Mono",g
 s,{default-fore},{base1},g
 s,{default-back},{base03},g
 s,{gdefault-fore},{base02},g

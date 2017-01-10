@@ -9,46 +9,46 @@ Global.UiRenderMode=Professional
 ComboBox.FlatStyle=Popup
 
 ListView.UseGrouping=True
-ListView.Highlight=#268bd2
-ListView.HighlightText=#002b36
-TreeView.Highlight=#268bd2
-TreeView.HighlightText=#002b36
+ListView.Highlight=#fac863
+ListView.HighlightText=#1b2b34
+TreeView.Highlight=#fac863
+TreeView.HighlightText=#1b2b34
 
-FlashLogViewer.DebugColor=#073642
+FlashLogViewer.DebugColor=#22323a
 FlashLogViewer.WarningColor=#ff601c
 FlashLogViewer.ErrorColor=#ff3936
 
-OutputPanel.InfoColor=#657b83
-OutputPanel.DebugColor=#073642
+OutputPanel.InfoColor=#4c5960
+OutputPanel.DebugColor=#22323a
 OutputPanel.WarningColor=#ff601c
 OutputPanel.ErrorColor=#ff3936
 OutputPanel.FatalColor=#ff429d
-OutputPanel.ProcessStartColor=#268bd2
-OutputPanel.ProcessEndColor=#268bd2
+OutputPanel.ProcessStartColor=#fac863
+OutputPanel.ProcessEndColor=#fac863
 OutputPanel.HighlightColor=#134569
 
-DataTreeControl.GrayText=#839496
-DataTreeControl.ErrorText=#dc322f
-DataTreeControl.HighlightText=#002b36
-DataTreeControl.LineColor=#eee8d5
+DataTreeControl.GrayText=#22323a
+DataTreeControl.ErrorText=#5fb3b3
+DataTreeControl.HighlightText=#1b2b34
+DataTreeControl.LineColor=#828b8f
 
-ProjectTreeView.InputColor=#b58900
-ProjectTreeView.SubItemColor=#657b83
-ProjectTreeView.ErrorColor=#dc322f
+ProjectTreeView.InputColor=#5fb3b3
+ProjectTreeView.SubItemColor=#4c5960
+ProjectTreeView.ErrorColor=#5fb3b3
 
-CompletionList.SelectedTextColor=#002b36
-CompletionList.SelectedBackColor=#268bd2
-CompletionList.PackageColor=#657b83
+CompletionList.SelectedTextColor=#1b2b34
+CompletionList.SelectedBackColor=#fac863
+CompletionList.PackageColor=#4c5960
 
-MethodCallTip.SelectedFore=#002b36
-MethodCallTip.SelectedBack=#eee8d5
-MethodCallTip.InfoColor=#657b83
+MethodCallTip.SelectedFore=#1b2b34
+MethodCallTip.SelectedBack=#828b8f
+MethodCallTip.InfoColor=#4c5960
 
-DataGridView.LineColor=#eee8d5
+DataGridView.LineColor=#828b8f
 
-ToolStripTextBoxControl.GrayText=#839496
+ToolStripTextBoxControl.GrayText=#22323a
 
-QuickFind.ErrorBack=#268bd2
+QuickFind.ErrorBack=#fac863
 
 # FD UI THEME (5.0+)
 
@@ -59,171 +59,171 @@ VS2005DockPaneStrip.TabSize=Large
 VS2005DockPaneStrip.TabStyle=Rect
 
 VS2005AutoHideStrip.TabStyle=Underlined
-VS2005AutoHideStrip.TabUnderlineColor=#839496
+VS2005AutoHideStrip.TabUnderlineColor=#22323a
 
 DockPanel.ShowAutoHideContentOn=Hover
 
 ScrollBar.UseCustom=True
-ScrollBar.BackColor=#eee8d5
-ScrollBar.DisabledBackColor=#eee8d5
-ScrollBar.BorderColor=#eee8d5
-ScrollBar.DisabledBorderColor=#eee8d5
-ScrollBar.ForeColor=#839496
-ScrollBar.HotForeColor=#657b83
-ScrollBar.ActiveForeColor=#073642
-ScrollBar.ArrowColor=#839496
-ScrollBar.HotArrowColor=#657b83
-ScrollBar.ActiveArrowColor=#073642
+ScrollBar.BackColor=#828b8f
+ScrollBar.DisabledBackColor=#828b8f
+ScrollBar.BorderColor=#828b8f
+ScrollBar.DisabledBorderColor=#828b8f
+ScrollBar.ForeColor=#22323a
+ScrollBar.HotForeColor=#4c5960
+ScrollBar.ActiveForeColor=#22323a
+ScrollBar.ArrowColor=#22323a
+ScrollBar.HotArrowColor=#4c5960
+ScrollBar.ActiveArrowColor=#22323a
 ScrollBar.CurrentPositionColor=#ffbf00
 
-LinkLabel.LinkColor=#268bd2
-LinkLabel.ActiveLinkColor=#dc322f
-LinkLabel.DisabledLinkColor=#6c71c4
+LinkLabel.LinkColor=#fac863
+LinkLabel.ActiveLinkColor=#5fb3b3
+LinkLabel.DisabledLinkColor=#f99157
 
-ColumnHeader.BackColor=#eee8d5
-ColumnHeader.TextColor=#002b36
-ColumnHeader.BorderColor=#657b83
+ColumnHeader.BackColor=#828b8f
+ColumnHeader.TextColor=#1b2b34
+ColumnHeader.BorderColor=#4c5960
 
-ToolStripComboBoxControl.BorderColor=#657b83
-ToolStripComboBoxControl.ActiveBorderColor=#073642
+ToolStripComboBoxControl.BorderColor=#4c5960
+ToolStripComboBoxControl.ActiveBorderColor=#22323a
 
-ToolStripTextBoxControl.BorderColor=#657b83
+ToolStripTextBoxControl.BorderColor=#4c5960
 
-ToolStrip.BorderColor=#657b83
-DockWindow.BorderColor=#586e75
-DockPanelControl.BorderColor=#073642
-ToolStripSeparator.ForeColor=#839496
+ToolStrip.BorderColor=#4c5960
+DockWindow.BorderColor=#425057
+DockPanelControl.BorderColor=#22323a
+ToolStripSeparator.ForeColor=#22323a
 
-ToolStripItem.ArrowColor=#657b83
-ToolStripItem.TextColor=#073642
+ToolStripItem.ArrowColor=#4c5960
+ToolStripItem.TextColor=#22323a
 
-VS2005DockPaneCaption.ActiveForeColor=#002b36
-VS2005DockPaneCaption.ActiveImageColor=#002b36
-VS2005DockPaneCaption.ImageColor=#073642
-VS2005DockPaneCaption.BorderColor=#073642
+VS2005DockPaneCaption.ActiveForeColor=#1b2b34
+VS2005DockPaneCaption.ActiveImageColor=#1b2b34
+VS2005DockPaneCaption.ImageColor=#22323a
+VS2005DockPaneCaption.BorderColor=#22323a
 
-VS2005DockPaneStrip.DocTabActiveBorder=#839496
-VS2005DockPaneStrip.DocTabActiveForeColor=#268bd2
-VS2005DockPaneStrip.DocTabInactiveBorder=#fdf6e3
-VS2005DockPaneStrip.ToolActiveBorderColor=#073642
-VS2005DockPaneStrip.ToolActiveForeColor=#002b36
-VS2005DockPaneStrip.ToolSeparatorColor=#fdf6e3
-VS2005DockPaneStrip.ImageColor=#073642
+VS2005DockPaneStrip.DocTabActiveBorder=#22323a
+VS2005DockPaneStrip.DocTabActiveForeColor=#fac863
+VS2005DockPaneStrip.DocTabInactiveBorder=#dddfe1
+VS2005DockPaneStrip.ToolActiveBorderColor=#22323a
+VS2005DockPaneStrip.ToolActiveForeColor=#1b2b34
+VS2005DockPaneStrip.ToolSeparatorColor=#dddfe1
+VS2005DockPaneStrip.ImageColor=#22323a
 
-ToolStripMenu.TitleBackColor=#fdf6e3
-ToolStripMenu.TitleBorderColor=#073642
-ToolStripMenu.SeparatorColor=#fdf6e3
-ToolStripMenu.DropDownBackColor=#fdf6e3
-ToolStripMenu.DropDownBorderColor=#073642
-ToolStripMenu.MarginBorderColor=#fdf6e3
-ToolStripMenu.MarginBackColor=#fdf6e3
-ToolStripMenu.BorderColor=#073642
-ToolStripMenu.BackColor=#fdf6e3
+ToolStripMenu.TitleBackColor=#dddfe1
+ToolStripMenu.TitleBorderColor=#22323a
+ToolStripMenu.SeparatorColor=#dddfe1
+ToolStripMenu.DropDownBackColor=#dddfe1
+ToolStripMenu.DropDownBorderColor=#22323a
+ToolStripMenu.MarginBorderColor=#dddfe1
+ToolStripMenu.MarginBackColor=#dddfe1
+ToolStripMenu.BorderColor=#22323a
+ToolStripMenu.BackColor=#dddfe1
 
-ProjectTreeView.LibraryTextColor=#268bd2
-ProjectTreeView.ExternalLibraryTextColor=#859900
-ProjectTreeView.IncludedLibraryTextColor=#2aa198
+ProjectTreeView.LibraryTextColor=#fac863
+ProjectTreeView.ExternalLibraryTextColor=#99c794
+ProjectTreeView.IncludedLibraryTextColor=#f99157
 
 # FD UI THEME (4.3+)
 
-ListBox.ForeColor=#073642
-ListBox.BackColor=#fdf6e3
+ListBox.ForeColor=#22323a
+ListBox.BackColor=#dddfe1
 
-TextBox.ForeColor=#073642
-TextBox.BackColor=#fdf6e3
+TextBox.ForeColor=#22323a
+TextBox.BackColor=#dddfe1
 
-ListView.ForeColor=#073642
-ListView.BackColor=#fdf6e3
+ListView.ForeColor=#22323a
+ListView.BackColor=#dddfe1
 
-RichTextBox.ForeColor=#073642
-RichTextBox.BackColor=#fdf6e3
+RichTextBox.ForeColor=#22323a
+RichTextBox.BackColor=#dddfe1
 
-FixedTreeView.ForeColor=#073642
-FixedTreeView.BackColor=#fdf6e3
+FixedTreeView.ForeColor=#22323a
+FixedTreeView.BackColor=#dddfe1
 
-TreeView.ForeColor=#073642
-TreeView.BackColor=#fdf6e3
+TreeView.ForeColor=#22323a
+TreeView.BackColor=#dddfe1
 
-TreeNode.ForeColor=#073642
-TreeNode.BackColor=#fdf6e3
+TreeNode.ForeColor=#22323a
+TreeNode.BackColor=#dddfe1
 
-ProjectTreeView.ForeColor=#073642
-ProjectTreeView.BackColor=#fdf6e3
+ProjectTreeView.ForeColor=#22323a
+ProjectTreeView.BackColor=#dddfe1
 
-DataTreeControl.ForeColor=#073642
-DataTreeControl.BackColor=#fdf6e3
+DataTreeControl.ForeColor=#22323a
+DataTreeControl.BackColor=#dddfe1
 
-DataGridView.ForeColor=#073642
-DataGridView.BackColor=#fdf6e3
-DataGridView.BackgroundColor=#fdf6e3
+DataGridView.ForeColor=#22323a
+DataGridView.BackColor=#dddfe1
+DataGridView.BackgroundColor=#dddfe1
 
-TreeViewAdv.ForeColor=#073642
-TreeViewAdv.BackColor=#fdf6e3
+TreeViewAdv.ForeColor=#22323a
+TreeViewAdv.BackColor=#dddfe1
 
-RichToolTip.ForeColor=#073642
-RichToolTip.BackColor=#fdf6e3
+RichToolTip.ForeColor=#22323a
+RichToolTip.BackColor=#dddfe1
 
-CompletionList.ForeColor=#073642
-CompletionList.BackColor=#fdf6e3
+CompletionList.ForeColor=#22323a
+CompletionList.BackColor=#dddfe1
 
-MessageBar.ForeColor=#002b36
-MessageBar.BackColor=#268bd2
+MessageBar.ForeColor=#1b2b34
+MessageBar.BackColor=#fac863
 
-Panel.ForeColor=#073642
-Panel.BackColor=#fdf6e3
+Panel.ForeColor=#22323a
+Panel.BackColor=#dddfe1
 
-QuickFind.ForeColor=#073642
-QuickFind.BackColor=#eee8d5
+QuickFind.ForeColor=#22323a
+QuickFind.BackColor=#828b8f
 
-SplitterControl.BackColor=#eee8d5
-SplitContainer.BackColor=#eee8d5
-SplitterPanel.BackColor=#eee8d5
+SplitterControl.BackColor=#828b8f
+SplitContainer.BackColor=#828b8f
+SplitterPanel.BackColor=#828b8f
 
-LinkLabel.ForeColor=#073642
-LinkLabel.BackColor=#fdf6e3
+LinkLabel.ForeColor=#22323a
+LinkLabel.BackColor=#dddfe1
 
-TreeBar.ForeColor=#073642
-TreeBar.BackColor=#eee8d5
+TreeBar.ForeColor=#22323a
+TreeBar.BackColor=#828b8f
 
-StatusStrip.ForeColor=#073642
-StatusStrip.BackColor=#fdf6e3
+StatusStrip.ForeColor=#22323a
+StatusStrip.BackColor=#dddfe1
 
-MenuStrip.ForeColor=#073642
-MenuStrip.BackColor=#eee8d5
+MenuStrip.ForeColor=#22323a
+MenuStrip.BackColor=#828b8f
 
-ToolStrip.ForeColor=#073642
-ToolStrip.BackColor=#eee8d5
-ToolStrip.3dLightColor=#eee8d5
-ToolStrip.3dDarkColor=#657b83
+ToolStrip.ForeColor=#22323a
+ToolStrip.BackColor=#828b8f
+ToolStrip.3dLightColor=#828b8f
+ToolStrip.3dDarkColor=#4c5960
 
-ToolStripItem.BackColor=#839496
-ToolStripItem.BorderColor=#586e75
+ToolStripItem.BackColor=#22323a
+ToolStripItem.BorderColor=#425057
 
-ToolStripComboBoxControl.ForeColor=#002b36
-ToolStripComboBoxControl.BackColor=#fdf6e3
+ToolStripComboBoxControl.ForeColor=#1b2b34
+ToolStripComboBoxControl.BackColor=#dddfe1
 
-ToolStripTextBoxControl.ForeColor=#002b36
-ToolStripTextBoxControl.BackColor=#fdf6e3
+ToolStripTextBoxControl.ForeColor=#1b2b34
+ToolStripTextBoxControl.BackColor=#dddfe1
 
-DockPanel.BackColor=#839496
+DockPanel.BackColor=#22323a
 
-AutoHideWindowControl.BackColor=#839496
+AutoHideWindowControl.BackColor=#22323a
 
-VS2005DockPaneCaption.ForeColor=#002b36
-VS2005DockPaneCaption.BackColor=#839496
-VS2005DockPaneCaption.TabGradientStart=#657b83
-VS2005DockPaneCaption.TabGradientEnd=#eee8d5
+VS2005DockPaneCaption.ForeColor=#1b2b34
+VS2005DockPaneCaption.BackColor=#22323a
+VS2005DockPaneCaption.TabGradientStart=#4c5960
+VS2005DockPaneCaption.TabGradientEnd=#828b8f
 
-VS2005DockPaneStrip.ForeColor=#073642
-VS2005DockPaneStrip.TabForeColor=#073642
-VS2005DockPaneStrip.DocBackColor=#eee8d5
-VS2005DockPaneStrip.ToolBackColor=#eee8d5
-VS2005DockPaneStrip.ToolActiveBackColor=#fdf6e3
-VS2005DockPaneStrip.DocActiveBackColor=#fdf6e3
-VS2005DockPaneStrip.DocInactiveBackColor=#eee8d5
-VS2005DockPaneStrip.TabSeparatorColor=#fdf6e3
-VS2005DockPaneStrip.TabStripColor=#eee8d5
+VS2005DockPaneStrip.ForeColor=#22323a
+VS2005DockPaneStrip.TabForeColor=#22323a
+VS2005DockPaneStrip.DocBackColor=#828b8f
+VS2005DockPaneStrip.ToolBackColor=#828b8f
+VS2005DockPaneStrip.ToolActiveBackColor=#dddfe1
+VS2005DockPaneStrip.DocActiveBackColor=#dddfe1
+VS2005DockPaneStrip.DocInactiveBackColor=#828b8f
+VS2005DockPaneStrip.TabSeparatorColor=#dddfe1
+VS2005DockPaneStrip.TabStripColor=#828b8f
 
-VS2005AutoHideStrip.ForeColor=#073642
-VS2005AutoHideStrip.BackColor=#fdf6e3
-VS2005AutoHideStrip.BorderColor=#839496
+VS2005AutoHideStrip.ForeColor=#22323a
+VS2005AutoHideStrip.BackColor=#dddfe1
+VS2005AutoHideStrip.BorderColor=#22323a
