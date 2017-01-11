@@ -185,7 +185,7 @@ LinkLabel.BackColor=#1b2b34
 TreeBar.ForeColor=#cdd3de
 TreeBar.BackColor=#22323a
 
-StatusStrip.ForeColor=#cdd3de
+StatusStrip.ForeColor=#828b8f
 StatusStrip.BackColor=#1b2b34
 
 MenuStrip.ForeColor=#cdd3de
@@ -211,11 +211,11 @@ AutoHideWindowControl.BackColor=#1b2b34
 
 VS2005DockPaneCaption.ForeColor=#828b8f
 VS2005DockPaneCaption.BackColor=#1b2b34
-VS2005DockPaneCaption.TabGradientStart=#4c5960
-VS2005DockPaneCaption.TabGradientEnd=#22323a
+VS2005DockPaneCaption.TabGradientStart=#1b2b34
+VS2005DockPaneCaption.TabGradientEnd=#1b2b34
 
 VS2005DockPaneStrip.ForeColor=#cdd3de
-VS2005DockPaneStrip.TabForeColor=#cdd3de
+VS2005DockPaneStrip.TabForeColor=#828b8f
 VS2005DockPaneStrip.DocBackColor=#22323a
 VS2005DockPaneStrip.ToolBackColor=#22323a
 VS2005DockPaneStrip.ToolActiveBackColor=#1b2b34

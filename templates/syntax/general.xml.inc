@@ -1,10 +1,10 @@
 <!-- regular text -->
 <style name="default" font={font-face} size={font-size} fore={default-fore} back={default-back} />
-<!-- 	
+<!--
 	fore - first margin column (bookmark and breakpoint indicators) background (if colorize-marker-back editor style is set to "true")
 	back - empty editor area background
 -->
-<style name="gdefault" fore={gdefault-fore} />
+<style name="gdefault" fore={default-back} />
 <!-- margin (line numbers) -->
 <style name="linenumber" fore={linenumber-fore} />
 <!-- matching brace -->

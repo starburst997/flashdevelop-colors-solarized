@@ -368,7 +368,7 @@ TreeBar.BackColor={background2}
 
 # Status bar (at the bottom)
 # Text
-StatusStrip.ForeColor={content4}
+StatusStrip.ForeColor={highlight1}
 # Background
 StatusStrip.BackColor={background1}
 
@@ -424,16 +424,16 @@ VS2005DockPaneCaption.ForeColor={caption-fore}
 # Background when panel is not focused
 VS2005DockPaneCaption.BackColor={base03}
 # Background gradient start color when panel is focused (just opened the "Output" panel, or clicked on the docked "Output" panel)
-VS2005DockPaneCaption.TabGradientStart={content2}
+VS2005DockPaneCaption.TabGradientStart={background1}
 # Background gradient end color when panel is focused (gradient starts near the splitter and ends near the panel contents)
-VS2005DockPaneCaption.TabGradientEnd={background2}
+VS2005DockPaneCaption.TabGradientEnd={background1}
 
 # Document tab bar (tabs that are below the main toolbar, above the editor)
 # Dock panel tab bar (tab bar that appears if several dock panels are grouped together using drag'n'drop, and auto-hide is disabled) - settings with the Tool prefix
 # Dock panel tab bar - inactive tab text
 VS2005DockPaneStrip.ForeColor={content4}
 # Inactive tab text (filename)
-VS2005DockPaneStrip.TabForeColor={content4}
+VS2005DockPaneStrip.TabForeColor={base2}
 # Background (for area not occupied by tabs)
 VS2005DockPaneStrip.DocBackColor={background2}
 # Dock panel tab bar - background (for inactive tabs and area not occupied by tabs)
